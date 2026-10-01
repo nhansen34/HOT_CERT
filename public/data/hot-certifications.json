@@ -1,6 +1,457 @@
 {
-  "generatedAt": null,
-  "windowStart": null,
-  "windowEnd": null,
-  "certifications": []
+  "generatedAt": "2026-10-01T00:00:00Z",
+  "windowStart": "2026-08-02T00:00:00Z",
+  "windowEnd": "2026-10-01T23:59:59Z",
+  "certifications": [
+    {
+      "certificationId": "bc13771c87a10e32c358867c",
+      "certificationName": "Isaac_Acceptability_Guidelines",
+      "totalAssignments": 24481,
+      "uniqueContributors": 14297,
+      "averageAssignmentsPerDay": 408.017,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "f6782921285fc5cc44923c74",
+      "certificationName": "Welcome to OneForma",
+      "totalAssignments": 17670,
+      "uniqueContributors": 16168,
+      "averageAssignmentsPerDay": 294.5,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "7ed5effeab8e99521ead8c1e",
+      "certificationName": "Isaac_Test_New_Grammar_EN-IN",
+      "totalAssignments": 9790,
+      "uniqueContributors": 5825,
+      "averageAssignmentsPerDay": 163.167,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "7b266944631b6a19eaae00c4",
+      "certificationName": "ISAAC_HT_Project Instructions_Quiz",
+      "totalAssignments": 5760,
+      "uniqueContributors": 2269,
+      "averageAssignmentsPerDay": 96.0,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "02a21dc23c57fae3adc50444",
+      "certificationName": "Translation_Certification_Guidance _UK_TO_FR",
+      "totalAssignments": 5664,
+      "uniqueContributors": 4548,
+      "averageAssignmentsPerDay": 94.4,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "656539f310bd712f966f96c6",
+      "certificationName": "ISAAC_StyleGuide_Quiz_US",
+      "totalAssignments": 4610,
+      "uniqueContributors": 3052,
+      "averageAssignmentsPerDay": 76.833,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "7c3c0d1a184ce67a76cdc0d4",
+      "certificationName": "Isaac_Test_New_Reading_EN-IN",
+      "totalAssignments": 4302,
+      "uniqueContributors": 3609,
+      "averageAssignmentsPerDay": 71.7,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "7911a1cd6da98076557f0cb1",
+      "certificationName": "ISAAC_LanguageProficiencyTest_Grammar_PT_BR",
+      "totalAssignments": 3922,
+      "uniqueContributors": 2694,
+      "averageAssignmentsPerDay": 65.367,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "599f2305b7424e3f0da2b78f",
+      "certificationName": "ISAAC_LanguageProficiencyTest_Reading_RU_RU",
+      "totalAssignments": 3764,
+      "uniqueContributors": 3038,
+      "averageAssignmentsPerDay": 62.733,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "d69c25ddb5951e9ac3c095c1",
+      "certificationName": "ISAAC_LanguageProficiencyTest_Grammar_ID_ID",
+      "totalAssignments": 3660,
+      "uniqueContributors": 2375,
+      "averageAssignmentsPerDay": 61.0,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "b66007e6ccf7e997a1754920",
+      "certificationName": "ISAAC_LanguageProficiencyTest_Reading_TE",
+      "totalAssignments": 3238,
+      "uniqueContributors": 1810,
+      "averageAssignmentsPerDay": 53.967,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "a7c8233c00db44358fb44321",
+      "certificationName": "ISAAC_LanguageProficiencyTest_Grammar_ES_MX",
+      "totalAssignments": 2824,
+      "uniqueContributors": 2316,
+      "averageAssignmentsPerDay": 47.067,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "3c6226b74554644d8da5a4e4",
+      "certificationName": "Isaac_Translation_EN-ID",
+      "totalAssignments": 2789,
+      "uniqueContributors": 1442,
+      "averageAssignmentsPerDay": 46.483,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "ef6a11a60b1755b3092b8923",
+      "certificationName": "ISAAC_LanguageProficiencyTest_Grammar_RU_RU",
+      "totalAssignments": 2697,
+      "uniqueContributors": 1880,
+      "averageAssignmentsPerDay": 44.95,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "0301cda4da80c43fba5407e2",
+      "certificationName": "Isaac_Harmful Content Conformity",
+      "totalAssignments": 2530,
+      "uniqueContributors": 2138,
+      "averageAssignmentsPerDay": 42.167,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "36278932750d3e07f4029159",
+      "certificationName": "ISAAC_LanguageProficiencyTest_Reading_ES_MX",
+      "totalAssignments": 2293,
+      "uniqueContributors": 1873,
+      "averageAssignmentsPerDay": 38.217,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-09-30"
+    },
+    {
+      "certificationId": "d4390a5682ef582bf5677e68",
+      "certificationName": "ISAAC_StyleGuide_Quiz_GB",
+      "totalAssignments": 2067,
+      "uniqueContributors": 688,
+      "averageAssignmentsPerDay": 34.45,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "db90c2a1afa392104ed433e4",
+      "certificationName": "Isaac_Translation_EN-UR",
+      "totalAssignments": 1747,
+      "uniqueContributors": 767,
+      "averageAssignmentsPerDay": 29.117,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "3ac6f1e55e5ca3f301c93802",
+      "certificationName": "ISAAC_StyleGuide_Quiz_JA",
+      "totalAssignments": 1686,
+      "uniqueContributors": 411,
+      "averageAssignmentsPerDay": 28.1,
+      "firstAssignmentDate": "2026-08-03",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "63a3be11b9bc4d1d89c56c64",
+      "certificationName": "ISAAC_StyleGuide_Quiz_PTB",
+      "totalAssignments": 1667,
+      "uniqueContributors": 630,
+      "averageAssignmentsPerDay": 27.783,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "91c13b7b8972c620ef5d34ea",
+      "certificationName": "ISAAC_StyleGuide_Quiz_TR",
+      "totalAssignments": 1665,
+      "uniqueContributors": 396,
+      "averageAssignmentsPerDay": 27.75,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "014393e101d0bceb6cf89d32",
+      "certificationName": "Pecan Test-4",
+      "totalAssignments": 1655,
+      "uniqueContributors": 1210,
+      "averageAssignmentsPerDay": 27.583,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "46940e756fb06c0e4c274760",
+      "certificationName": "English Language Test for LLM",
+      "totalAssignments": 1623,
+      "uniqueContributors": 1013,
+      "averageAssignmentsPerDay": 27.05,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-09-30"
+    },
+    {
+      "certificationId": "eb912e2d47579029bd7a97d0",
+      "certificationName": "ISAAC_LanguageProficiencyTest_Reading_PT_BR",
+      "totalAssignments": 1621,
+      "uniqueContributors": 1336,
+      "averageAssignmentsPerDay": 27.017,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-09-26"
+    },
+    {
+      "certificationId": "698d45b5d651752bd7f2b61e",
+      "certificationName": "ISAAC_Adaptation_Test_arz_AE",
+      "totalAssignments": 1592,
+      "uniqueContributors": 646,
+      "averageAssignmentsPerDay": 26.533,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "f91fb53bed1c9cfb901744aa",
+      "certificationName": "ISAAC_StyleGuide_Quiz_ES",
+      "totalAssignments": 1589,
+      "uniqueContributors": 445,
+      "averageAssignmentsPerDay": 26.483,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "89dc4b503d9e9bec38075905",
+      "certificationName": "ISAAC_LanguageProficiencyTest_Grammar_FR_FR",
+      "totalAssignments": 1526,
+      "uniqueContributors": 1070,
+      "averageAssignmentsPerDay": 25.433,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "0222d085bc72946c018b3e50",
+      "certificationName": "ISAAC \u2013 Gujarati_Level 2",
+      "totalAssignments": 1507,
+      "uniqueContributors": 1194,
+      "averageAssignmentsPerDay": 25.117,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "010f42826e33912e35a223ee",
+      "certificationName": "ISAAC_LanguageProficiencyTest_Reading_NL",
+      "totalAssignments": 1465,
+      "uniqueContributors": 1282,
+      "averageAssignmentsPerDay": 24.417,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "625808357ae1b11b8dee9eb2",
+      "certificationName": "English Reading Comprehension",
+      "totalAssignments": 1380,
+      "uniqueContributors": 1133,
+      "averageAssignmentsPerDay": 23.0,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "2998991ec4fedc193a0b7464",
+      "certificationName": "ISAAC_LanguageProficiencyTest_Reading_TA",
+      "totalAssignments": 1366,
+      "uniqueContributors": 822,
+      "averageAssignmentsPerDay": 22.767,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-09-27"
+    },
+    {
+      "certificationId": "abf8cd4c1f7540eb22c84b7d",
+      "certificationName": "ISAAC_StyleGuide_Quiz_FR",
+      "totalAssignments": 1347,
+      "uniqueContributors": 653,
+      "averageAssignmentsPerDay": 22.45,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "0b59fde6740f0a31595c820e",
+      "certificationName": "ISAAC_StyleGuide_Quiz_EN(CA)",
+      "totalAssignments": 1248,
+      "uniqueContributors": 316,
+      "averageAssignmentsPerDay": 20.8,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "0792b296fa1cfa8aed3499c0",
+      "certificationName": "ISAAC_StyleGuide_Quiz_EN(IN)",
+      "totalAssignments": 1242,
+      "uniqueContributors": 523,
+      "averageAssignmentsPerDay": 20.7,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "037bbbd01b161b6a147e241b",
+      "certificationName": "ISAAC_LanguageProficiencyTest_Reading_MR",
+      "totalAssignments": 1237,
+      "uniqueContributors": 758,
+      "averageAssignmentsPerDay": 20.617,
+      "firstAssignmentDate": "2026-08-03",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "69e479ca799a456027ad033b",
+      "certificationName": "Isaac_Translation_HI(Latin)-HI",
+      "totalAssignments": 1198,
+      "uniqueContributors": 618,
+      "averageAssignmentsPerDay": 19.967,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "b2ccee7274322d1c49a95ee3",
+      "certificationName": "Isaac_Translation_EN-TR",
+      "totalAssignments": 1150,
+      "uniqueContributors": 540,
+      "averageAssignmentsPerDay": 19.167,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "7bd896f272724018416af7e0",
+      "certificationName": "ISAAC_LanguageProficiencyTest_Grammar_BN",
+      "totalAssignments": 1144,
+      "uniqueContributors": 868,
+      "averageAssignmentsPerDay": 19.067,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-09-29"
+    },
+    {
+      "certificationId": "ce233ae05b257a61bfb69517",
+      "certificationName": "ISAAC_LanguageProficiencyTest_Reading_ID_ID",
+      "totalAssignments": 1080,
+      "uniqueContributors": 838,
+      "averageAssignmentsPerDay": 18.0,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "0eee2b83c5d45099284bf450",
+      "certificationName": "ISAAC_Transcription_Test_PTB",
+      "totalAssignments": 1067,
+      "uniqueContributors": 924,
+      "averageAssignmentsPerDay": 17.783,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "3e8b262cf7177d14ecf5acfc",
+      "certificationName": "Isaac_Translation_AR-EN",
+      "totalAssignments": 1065,
+      "uniqueContributors": 605,
+      "averageAssignmentsPerDay": 17.75,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "4d00a3e650809fd009689b14",
+      "certificationName": "Isaac_Translation_EN-PTB",
+      "totalAssignments": 993,
+      "uniqueContributors": 629,
+      "averageAssignmentsPerDay": 16.55,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "0347e1962ca426affc798656",
+      "certificationName": "AMZ_Translation_Certification_EN-ES",
+      "totalAssignments": 960,
+      "uniqueContributors": 745,
+      "averageAssignmentsPerDay": 16.0,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "0de33698754eecea1712bee6",
+      "certificationName": "Isaac_Translation_EN-ES",
+      "totalAssignments": 960,
+      "uniqueContributors": 607,
+      "averageAssignmentsPerDay": 16.0,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "698d9abfe27b305cc374b397",
+      "certificationName": "ISAAC_Adaptation_Test_arz_EG",
+      "totalAssignments": 936,
+      "uniqueContributors": 725,
+      "averageAssignmentsPerDay": 15.6,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "0fc3072d9eca2f2b5482ad6a",
+      "certificationName": "ISAAC_LanguageProficiencyTest_Grammar_JA_JA",
+      "totalAssignments": 910,
+      "uniqueContributors": 707,
+      "averageAssignmentsPerDay": 15.167,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "026653412043cf180a4176e3",
+      "certificationName": "Isaac_Translation_SL-EN",
+      "totalAssignments": 907,
+      "uniqueContributors": 706,
+      "averageAssignmentsPerDay": 15.117,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "69436f5469576e05482922ac",
+      "certificationName": "Isaac_Translation_EN-AR(EG)",
+      "totalAssignments": 894,
+      "uniqueContributors": 408,
+      "averageAssignmentsPerDay": 14.9,
+      "firstAssignmentDate": "2026-08-03",
+      "mostRecentAssignmentDate": "2026-09-30"
+    },
+    {
+      "certificationId": "3def87162d67e7741c75b67b",
+      "certificationName": "Isaac_Translation_EN-BN",
+      "totalAssignments": 871,
+      "uniqueContributors": 433,
+      "averageAssignmentsPerDay": 14.517,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    },
+    {
+      "certificationId": "00f1f14942d2e0d1399cadef",
+      "certificationName": "Isaac_Translation_DE-JA",
+      "totalAssignments": 863,
+      "uniqueContributors": 654,
+      "averageAssignmentsPerDay": 14.383,
+      "firstAssignmentDate": "2026-08-02",
+      "mostRecentAssignmentDate": "2026-10-01"
+    }
+  ]
 }
